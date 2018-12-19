@@ -6,7 +6,7 @@ public class Main{
         int[][] a = new int[3][4];
         for (int r = 0; r < a.length; r++) {
             for (int c = 0; c < a[r].length; c++) {
-
+ //this is the change
             }
         }
     }
