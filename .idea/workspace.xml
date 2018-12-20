@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5b42759-de8e-46f2-ae96-443fa13ad2dd" name="Default" comment="start up">
+    <list default="true" id="f5b42759-de8e-46f2-ae96-443fa13ad2dd" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,10 +54,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2081" />
-    <option name="y" value="102" />
-    <option name="width" value="1400" />
-    <option name="height" value="750" />
+    <option name="x" value="142" />
+    <option name="y" value="42" />
+    <option name="width" value="1750" />
+    <option name="height" value="938" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -180,7 +179,7 @@
       <workItem from="1545209588787" duration="38000" />
       <workItem from="1545209779544" duration="270000" />
       <workItem from="1545214636829" duration="957000" />
-      <workItem from="1545216591146" duration="544000" />
+      <workItem from="1545216591146" duration="816000" />
     </task>
     <task id="LOCAL-00001" summary="start up">
       <created>1545214750179</created>
@@ -196,11 +195,32 @@
       <option name="project" value="LOCAL" />
       <updated>1545216636717</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="source tree">
+      <created>1545217152584</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1545217152584</updated>
+    </task>
+    <task id="LOCAL-00004" summary="br">
+      <created>1545217340505</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1545217340505</updated>
+    </task>
+    <task id="LOCAL-00005" summary="rer">
+      <created>1545217377839</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1545217377839</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1809000" />
+    <option name="totallyTimeSpent" value="2081000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2081" y="102" width="1400" height="750" extended-state="0" />
@@ -245,7 +265,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start up" />
     <MESSAGE value="Edit master" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edit master" />
+    <MESSAGE value="source tree" />
+    <MESSAGE value="br" />
+    <MESSAGE value="rer" />
+    <option name="LAST_COMMIT_MESSAGE" value="rer" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/ArrayLength2D.java">
