@@ -2,313 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f5b42759-de8e-46f2-ae96-443fa13ad2dd" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-1/Difference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-1/Egg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-1/Egg2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-1/EggStop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-1/FightSong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-1/Lanterns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-1/Mantra.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-1/Meta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-1/MuchBetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-1/Sally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-1/Shining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-1/Spikey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-1/StarFigures.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-1/Stewie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-1/Stewie2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-1/TestOfKnowledge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-1/TwoRockets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-1/WellFormed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-1/printlnSlashes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-1/withoutPrintStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-10/ComparableCalendarDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-10/ComparablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-10/doubleList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-10/filterRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-10/interleave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-10/markLength4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-10/minToFront.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-10/removeDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-10/removeEvenLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-10/removeInRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-10/removeShorterStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-10/stutter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-10/swapPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-11/alternate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-11/contains3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-11/countCommon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-11/countUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-11/hasOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-11/intersect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-11/isUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-11/maxLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-11/maxOccurrences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-11/rarest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-11/removeEvenLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-11/removeInRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-11/reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-12/countBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-12/digitMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-12/evenDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-12/indexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-12/isReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-12/maxSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-12/multiplyEvens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-12/printSquares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-12/repeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-12/starString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-12/subsets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-12/sumTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-12/waysToClimb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-12/writeChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-12/writeNums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-12/writeSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-12/writeSquares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-14/collapse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-14/compressDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-14/copyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-14/equals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-14/expunge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-14/interleave.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-14/isConsecutive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-14/isPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-14/isSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-14/mirror.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-14/mirrorHalves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-14/rearrange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-14/removeMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-14/reorder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-14/reverseFirstK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-14/reverseHalf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-14/shift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-14/splitStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-14/stutter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-14/switchPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-15/isPairwiseSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-15/longestSortedSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-15/mirror.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-15/printInversions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-15/removeAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-15/removeFront.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-15/runningTotal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-15/stretch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-16/compress.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-16/countDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-16/deleteBack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-16/doubleList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-16/equals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-16/hasTwoConsecutive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-16/isSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-16/lastIndexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-16/min.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-16/removeAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-16/removeEvens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-16/removeRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-16/reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-16/rotate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-16/set.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-16/shift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-16/split.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-16/stretch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-16/stutter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-16/switchPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-16/transferFrom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-17/combineWith.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-17/completeToLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-17/countEmpty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-17/countEvenBranches.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-17/countLeftNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-17/depthSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-17/doublePositives.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-17/equals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-17/evenLevels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-17/inOrderList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-17/isFull.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-17/makePerfect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-17/numberNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-17/printLeaves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-17/printLevel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-17/removeLeaves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-17/tighten.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-17/toString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-17/trim.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-2/Count2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-2/DollarFigure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-2/DollarFigure2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-2/SlashFigure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-2/SlashFigure2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-2/StarFigure.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-2/completeLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-2/displacement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-2/fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-2/loopSquares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-2/nestedNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-2/nestedNumbers2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-2/nestedNumbers3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-2/numberTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-2/numbersOutput60.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-2/printDesign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-2/spacedNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-2/spacesAndNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-2/starSquar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-2/starTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-2/timesOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-2/waveNumbers40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-3/CollegeAdmit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-3/area.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-3/countQuarters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-3/cylinderSurfaceArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-3/distance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-3/inputBirthday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-3/largerAbsVal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-3/largestAbsVal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-3/lastDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-3/min.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-3/padString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-3/pay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-3/printGrid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-3/printNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-3/printPowersOf2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-3/printPowersOfN.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-3/printReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-3/printSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-3/processName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-3/quadratic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-3/scientific.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-3/sphereVolume.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-3/triangleArea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-3/vertical.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-4/average.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-4/daysInMonth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-4/evenSumMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-4/fractionSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-4/getGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-4/longestName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-4/numUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-4/perfectNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-4/pow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-4/pow2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-4/printGPA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-4/printPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-4/printRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-4/printTriangleType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-4/quadrant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-4/repl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-4/season.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-4/smallestLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-4/swapPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-4/wordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-4/xo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/allDigitsOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/anglePairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/consecutive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/contains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/diceSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/digitRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/digitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/dominant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/firstDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/gcd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/hasAnOddDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/hasMidpoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/hopscotch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/isAllVowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/isPrime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/makeGuesses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/monthApart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/printAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/printFactors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/printLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/randomLines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/randomWalk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/randomX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/sentinelMinMax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/showTwos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/swapDigitPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/threeHeads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/toBinary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-5/zeroDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-6/boyGirl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-6/coinFlip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-6/collapseSpaces.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-6/countCoins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-6/doubleSpace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-6/evenNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-6/flipLines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-6/getFileName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-6/inputStats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-6/leetSpeak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-6/mostCommonNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-6/negativeSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-6/plusScores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-6/printDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-6/printEntireFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-6/readEntireFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-6/stripComments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-6/stripHtmlTags.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-6/wordWrap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-6/wordWrap2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-6/wordWrap3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/allLess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/append.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/average.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/averageLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/collapse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/contains.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/countInRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/isMagicSquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/isPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/isSorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/isUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/kthLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/lastIndexOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/longestSortedSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/matrixAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/max.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/median.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/minGap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/mode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/percentEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/priceIsRight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/range.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/rectangularArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/stdev.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/swapPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/vowelCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-7/wordLengths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-8/addTimeSpan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-8/classLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-8/classRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-8/clearStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-8/constructorLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-8/constructorRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-8/containsRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-8/flipPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-8/getSlopeLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-8/intersectionRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-8/isCollinearLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-8/isCollinearPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-8/isVerticalPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-8/manhattanDistancePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-8/quadrantPoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-8/scaleTimeSpan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-8/slopePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-8/subtractTimeSpan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-8/toStringBankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-8/transactionFeeBankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-8/transferBankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-8/unionRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-9/DiscountBill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-9/FilteredAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-9/HarvardLawyer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-9/Janitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-9/Marketer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-9/MinMaxAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/practice-it-master/chapter-9/MonsterTruck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -319,26 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ArrayLength2D.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ArrayLength2D.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -359,7 +34,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="142" />
     <option name="y" value="42" />
     <option name="width" value="1750" />
@@ -379,11 +54,6 @@
               <item name="Practice it" type="b2602c69:ProjectViewProjectNode" />
               <item name="IntelliJ" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Practice it" type="b2602c69:ProjectViewProjectNode" />
-              <item name="IntelliJ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -397,6 +67,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IntelliJ\src\practice it" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -486,7 +161,7 @@
       <workItem from="1545209779544" duration="270000" />
       <workItem from="1545214636829" duration="957000" />
       <workItem from="1545216591146" duration="816000" />
-      <workItem from="1545304323917" duration="226000" />
+      <workItem from="1545304323917" duration="475000" />
     </task>
     <task id="LOCAL-00001" summary="start up">
       <created>1545214750179</created>
@@ -523,11 +198,18 @@
       <option name="project" value="LOCAL" />
       <updated>1545217377839</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="rer">
+      <created>1545304553381</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1545304553381</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2320000" />
+    <option name="totallyTimeSpent" value="2613000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="114" y="34" width="1400" height="750" extended-state="0" />
@@ -619,17 +301,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ArrayLength2D.java">
+    <entry file="file://$PROJECT_DIR$/src/practice-it-master/chapter-7/matrixAdd.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="51">
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ArrayLength2D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
